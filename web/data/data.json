@@ -1,77 +1,51 @@
 {
     "basic": {
-        "firstName": "Muhammad",
-        "lastName": "Hamza",
-        "age": 22,
-        "email": "hamza.6.shakeel@gmail.com",
-        "phone": "+92 346 0159889",
-        "address": "Islamabad, PK",
+        "firstName": "Yoga",
+        "lastName": "Pratama",
+        "age": 21,
+        "email": "yogaprattama99@gmail.com",
+        "phone": "+62 859 4291 2546",
+        "address": "Nganjuk, Jawa Timur",
         "photos": [
             "images/photos/bw.png",
             "images/photos/colored.png",
             "images/photos/mobile.png"
         ],
-        "resume": "https://drive.google.com/drive/u/0/folders/1E6NxJlmnW2lTYTszcbODdpXiPFYe_kBM"
+        "resume": "https://drive.google.com/drive/folders/18PbcCxxl5Wo33sJJzuaeQshpXOZvXDa7?usp=sharing"
     },
     "socials": [
         {
-            "icon": "fa-brands fa-square-facebook",
-            "url": "https://www.facebook.com/mhmzdev"
-        },
-        {
             "icon": "fa-brands fa-linkedin",
-            "url": "https://www.linkedin.com/in/mhmzdev/"
+            "url": "https://www.linkedin.com/in/yoga-pratama-90ab96341"
         },
         {
             "icon": "fa-brands fa-github",
-            "url": "https://github.com/mhmzdev"
-        },
-        {
-            "icon": "fa-brands fa-x-twitter",
-            "url": "https://twitter.com/mhmzdev"
+            "url": "https://github.com/yogapratama99a"
         },
         {
             "icon": "fa-brands fa-instagram",
-            "url": "https://www.instagram.com/mhmzdev/"
-        },
-        {
-            "icon": "fa-brands fa-medium",
-            "url": "https://mhmzdev.medium.com"
+            "url": "https://www.instagram.com/yogappratama/"
         }
     ],
     "about": {
-        "heading": "I'm Muhammad Hamza, a Flutter Developer, Technical blog writer and UI/UX Designer.",
-        "description": "I'm a fresh graduate with Computer Science as Majors from COMSATS University Islamabad. I have been working with Flutter for the past 2 years and have developed multiple applications for both Android and iOS platforms. I have a keen interest in UI/UX designing and have been working on it for the past 3 years. I have also been writing technical blogs for the past 2 years and have been a part of multiple technical writing communities.",
+        "heading": "I'm Yoga Pratama, a Flutter Developer, App Developer and UI/UX Designer.",
+        "description": "I am a 4th semester Informatics Engineering student at Jember State Polytechnic with hands-on experience in various technical fields. As a Full-Stack Mobile Developer, I specialize in Flutter (Dart) development while also mastering PHP, Java, Laravel Framework for backend solutions.",
         "tech": [
             "Flutter",
-            "Dart",
+            "Dart", 
             "Firebase",
-            "Python",
-            "dart_frog",
-            "jaspr",
-            "nodejs",
-            "express"
+            "Laravel",
+            "MySQL",
+            "SQLite",
+            "Java",
+            "Figma",
+            "RESTful APIs"
         ],
         "works": [
             {
-                "image": "images/work/cui.png",
-                "url": "https://www.comsats.edu.pk/",
+                "image": "images/work/polije.png",
+                "url": "https://polije.ac.id/teknik-informatika//",
                 "height": 50
-            },
-            {
-                "image": "images/work/dsc.png",
-                "url": "https://developers.google.com/community/dsc",
-                "height": 30
-            },
-            {
-                "image": "images/work/flutterIsl.png",
-                "url": "https://meetup.com/flutter-islamabad",
-                "height": 60
-            },
-            {
-                "image": "images/work/st.png",
-                "url": "https://www.sastaticket.pk/",
-                "height": 60
             }
         ]
     },
@@ -83,18 +57,6 @@
         {
             "icon": "images/services/ui.png",
             "title": "UI/UX Design"
-        },
-        {
-            "icon": "images/services/rapid.png",
-            "title": "Rapid Prototyping"
-        },
-        {
-            "icon": "images/services/blog.png",
-            "title": "Technical Writing"
-        },
-        {
-            "icon": "images/services/open.png",
-            "title": "Open Source - GitHub"
         }
     ],
     "projects": [
@@ -138,20 +100,20 @@
         {
             "icon": "fa-duotone fa-solid fa-house",
             "title": "Location",
-            "description": "Islamabad, PK",
-            "action": "https://maps.app.goo.gl/ek2SSNh26K1i4HNF6"
+            "description": "Nganjuk, Jawa Timur",
+            "action": "https://www.google.com/maps/place/7%C2%B036'21.5%22S+112%C2%B001'20.3%22E/@-7.605973,112.0216563,19z/data=!3m1!4b1!4m4!3m3!8m2!3d-7.605973!4d112.0223?entry=ttu&g_ep=EgoyMDI1MDQyOS4wIKXMDSoASAFQAw%3D%3D"
         },
         {
             "icon": "fa-duotone fa-solid fa-phone",
             "title": "Phone",
             "description": "+92 346 0159889",
-            "action": "https://wa.me/923460159889"
+            "action": "https://wa.me/6285942912546"
         },
         {
             "icon": "fa-duotone fa-solid fa-envelope",
             "title": "Email",
-            "description": "hamza.6.shakeel@gmail.com",
-            "action": "mailto:hamza.6.shakeel@gmail.com"
+            "description": "yogaprattama99@gmail.com",
+            "action": "mailto:yogaprattama99@gmail.com"
         }
     ]
 }

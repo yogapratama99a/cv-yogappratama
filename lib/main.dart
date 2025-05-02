@@ -24,7 +24,7 @@ void main() {
   // [Document] renders the root document structure (<html>, <head> and <body>)
   // with the provided parameters and components.
   runApp(Document(
-    title: 'Hamza',
+    title: 'Yoga',
     /// Uncomment this line to deploy on github pages just in case your websit is like https://mhmzdev.github.io/devfolio-jaspr/
     /// If its on the base repo, then you don't need to do this
     // base: 'devfolio-jaspr/',
@@ -37,10 +37,6 @@ void main() {
     ],
     charset: 'utf-8',
     viewport: 'width=device-width, initial-scale=1, shrink-to-fit=no',
-    meta: {
-      "og:title": "Hamza - Random Dude!",
-      "og:url": "https://www.mhmz.dev",
-    },
     lang: 'en',
     styles: [
       // Special import rule to include to another css file.

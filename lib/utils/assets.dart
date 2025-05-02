@@ -7,7 +7,7 @@ abstract class StaticAssets {
   /// 2. Colored image of same size
   /// 3. Mobile image (Preferred with border and circular avatar)
   ///
-  static const String bwImage = 'images/photos/black-white.png';
+  static const String bwImage = 'images/photos/bw.png';
   static const String coloredImage = 'images/photos/colored.png';
   static const String mobileImage = 'images/photos/mobile.png';
 
